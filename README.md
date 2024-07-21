@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Patrick Leibensperger</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-- 🔭 I’m currently working on [Project Builder](https://project-builder-e7439342976b.herokuapp.com/), an app that lets you upload your Arduino/ ESP32 projects and fork other users' projects!  It has been setup as a "GitHub App," This gives you the option to login with GitHub.
+ I’m currently working on [Project Builder](https://project-builder-e7439342976b.herokuapp.com/), an app that lets you upload your Arduino/ ESP32 projects and fork other users' projects!  It has been setup as a "GitHub App," This gives you the option to login with GitHub.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
