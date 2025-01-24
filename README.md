@@ -22,7 +22,7 @@
 <p>Other:</p>
 <ul>
  <li>
-Peer Programming, Agile Methodologies, 3rd party API integrations, Amazon Web Services
+Agile Methodologies, 3rd party API integrations, Amazon Web Services
  </li>
 </ul>
 
