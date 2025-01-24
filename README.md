@@ -17,7 +17,7 @@
 </ul>
 <p>Frameworks & Tools:</p>
 <ul>
- <li>Node.js, React.js, Express.js, Passport.js, Objection.js, Knex.js, SQL, PostgreSQL, Material UI</li>
+ <li>Node.js, React.js, Express.js, Passport.js, Objection.js, Knex.js, SQL, PostgreSQL, Material UI, OAuth2</li>
 </ul>
 <p>Other:</p>
 <ul>
