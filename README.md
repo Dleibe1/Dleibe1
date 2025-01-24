@@ -13,7 +13,7 @@
 
 <p>Languages:</p>
 <ul>
- <li>Javascript, HTML, CSS, Micro Python, Arduino Framework</li>
+ <li>Javascript, HTML, CSS, Micropython, Arduino Framework</li>
 </ul>
 <p>Frameworks & Tools:</p>
 <ul>
