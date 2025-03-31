@@ -17,7 +17,7 @@
 </ul>
 <p>Frameworks & Tools:</p>
 <ul>
- <li>Node.js, React.js, Express.js, Passport.js, Objection.js, Knex.js, PostgreSQL, Material UI, Cypress.io, TinyMCE, OAuth2</li>
+ <li>Node.js, React.js, Express.js, Passport.js, Objection.js, Knex.js, PostgreSQL, Material UI, Cypress.io, TinyMCE, OAuth2.0</li>
 </ul>
 <p>Other:</p>
 <ul>
